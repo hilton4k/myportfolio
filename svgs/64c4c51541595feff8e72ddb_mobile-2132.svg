@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="794.713" height="383" viewBox="0 0 794.713 383">
+  <g id="Group_21316" data-name="Group 21316" transform="translate(-300 -7054)">
+    <g id="Rectangle_7363" data-name="Rectangle 7363" transform="translate(300 7054)" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.2)" stroke-width="1">
+      <rect width="794.713" height="383" rx="25" stroke="none"/>
+      <rect x="0.5" y="0.5" width="793.713" height="382" rx="24.5" fill="none"/>
+    </g>
+    <path id="Rectangle_7694" data-name="Rectangle 7694" d="M25,0H769.713a25,25,0,0,1,25,25V60a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V25A25,25,0,0,1,25,0Z" transform="translate(300 7054)" fill="rgba(249,249,255,0.15)"/>
+    <text id="Action" transform="translate(995.713 7089)" fill="#fff" font-size="16" font-family="Gilroy-Bold, Gilroy" font-weight="700" letter-spacing="-0.02em"><tspan x="0" y="0">ACTION</tspan></text>
+    <text id="User_Type" data-name="User Type" transform="translate(785.837 7089)" fill="#fff" font-size="16" font-family="Gilroy-Bold, Gilroy" font-weight="700" letter-spacing="-0.02em"><tspan x="0" y="0">USER TYPE</tspan></text>
+    <text id="E-Mail_Address" data-name="E-Mail Address" transform="translate(533.186 7089)" fill="#fff" font-size="16" font-family="Gilroy-Bold, Gilroy" font-weight="700" letter-spacing="-0.02em"><tspan x="0" y="0">E-MAIL ADDRESS</tspan></text>
+    <text id="Full_Name" data-name="Full Name" transform="translate(332 7089)" fill="#fff" font-size="16" font-family="Gilroy-Bold, Gilroy" font-weight="700" letter-spacing="-0.02em"><tspan x="0" y="0">FULL NAME</tspan></text>
+    <g id="Group_21130" data-name="Group 21130" transform="translate(301.5 7129)">
+      <g id="Group_21131" data-name="Group 21131">
+        <text id="Warren_Buffett" data-name="Warren Buffett" transform="translate(30.5 280)" fill="#fff" font-size="18" font-family="Gilroy-Bold, Gilroy" font-weight="700" letter-spacing="-0.02em"><tspan x="0" y="0">Warren Buffett</tspan></text>
+        <text id="warren_adcreative.ai" data-name="warren@adcreative.ai" transform="translate(226.34 280)" fill="#fff" font-size="16" font-family="Gilroy-Medium, Gilroy" font-weight="500" letter-spacing="-0.02em"><tspan x="0" y="0">warren@adcreative.ai</tspan></text>
+        <g id="Group_9507" data-name="Group 9507" transform="translate(495.572 268)">
+          <text id="USER" transform="translate(0 12)" fill="#fff" font-size="16" font-family="Gilroy-Semibold, Gilroy" font-weight="600" letter-spacing="-0.02em"><tspan x="0" y="0">USER</tspan></text>
+        </g>
+        <g id="Group_19828" data-name="Group 19828" transform="translate(675.213 256)">
+          <rect id="Rectangle_7695" data-name="Rectangle 7695" width="40" height="40" rx="12" fill="#fff" opacity="0.1"/>
+          <rect id="Rectangle_7696" data-name="Rectangle 7696" width="40" height="40" rx="12" transform="translate(54)" fill="#fff" opacity="0.1"/>
+          <g id="Group_9760" data-name="Group 9760" transform="translate(9.479 9.479)">
+            <g id="_002-pencil" data-name="002-pencil" transform="translate(0)">
+              <g id="Group_9708" data-name="Group 9708">
+                <path id="Path_11256" data-name="Path 11256" d="M10.519,0A10.519,10.519,0,1,0,21.038,10.518,10.519,10.519,0,0,0,10.519,0Zm5,7.57-1,1L12.487,6.535l-.772.772L13.749,9.34,8.761,14.328,6.727,12.295l-.772.772L7.989,15.1l-.5.5-.009-.009a.394.394,0,0,1-.251.181l-1.9.423a.394.394,0,0,1-.47-.471l.423-1.9a.4.4,0,0,1,.181-.251l-.01-.01,8.027-8.027a.3.3,0,0,1,.426,0L15.52,7.143A.3.3,0,0,1,15.519,7.57Z" transform="translate(-0.001)" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_19827" data-name="Group 19827" transform="translate(64 10)">
+            <g id="Group_9709" data-name="Group 9709">
+              <circle id="Ellipse_3" data-name="Ellipse 3" cx="10.5" cy="10.5" r="10.5" fill="#fff"/>
+              <path id="Path_3383" data-name="Path 3383" d="M11.068,4.94h-4.3V.648A.647.647,0,0,0,6.13,0H5.58a.648.648,0,0,0-.64.648V4.94H.64A.64.64,0,0,0,0,5.579v.553a.639.639,0,0,0,.64.637h4.3v4.307a.635.635,0,0,0,.64.633h.55a.634.634,0,0,0,.639-.633V6.769h4.3a.639.639,0,0,0,.641-.637V5.579A.64.64,0,0,0,11.068,4.94Z" transform="translate(2.523 10.802) rotate(-45)" fill="#3b2a82"/>
+            </g>
+          </g>
+        </g>
+        <text id="Bill_Gates" data-name="Bill Gates" transform="translate(30.5 216)" fill="#fff" font-size="18" font-family="Gilroy-Bold, Gilroy" font-weight="700" letter-spacing="-0.02em"><tspan x="0" y="0">Bill Gates</tspan></text>
+        <text id="bill_adcreative.ai" data-name="bill@adcreative.ai" transform="translate(231.215 216)" fill="#fff" font-size="16" font-family="Gilroy-Medium, Gilroy" font-weight="500" letter-spacing="-0.02em"><tspan x="0" y="0">bill@adcreative.ai</tspan></text>
+        <g id="Group_9507-2" data-name="Group 9507" transform="translate(492.338 204)">
+          <text id="ADMIN" transform="translate(0 12)" fill="#fff" font-size="16" font-family="Gilroy-Semibold, Gilroy" font-weight="600" letter-spacing="-0.02em"><tspan x="0" y="0">ADMIN</tspan></text>
+        </g>
+        <g id="Group_19828-2" data-name="Group 19828" transform="translate(675.213 192)">
+          <rect id="Rectangle_7695-2" data-name="Rectangle 7695" width="40" height="40" rx="12" fill="#fff" opacity="0.1"/>
+          <rect id="Rectangle_7696-2" data-name="Rectangle 7696" width="40" height="40" rx="12" transform="translate(54)" fill="#fff" opacity="0.1"/>
+          <g id="Group_9760-2" data-name="Group 9760" transform="translate(9.479 9.479)">
+            <g id="_002-pencil-2" data-name="002-pencil" transform="translate(0)">
+              <g id="Group_9708-2" data-name="Group 9708">
+                <path id="Path_11256-2" data-name="Path 11256" d="M10.519,0A10.519,10.519,0,1,0,21.038,10.518,10.519,10.519,0,0,0,10.519,0Zm5,7.57-1,1L12.487,6.535l-.772.772L13.749,9.34,8.761,14.328,6.727,12.295l-.772.772L7.989,15.1l-.5.5-.009-.009a.394.394,0,0,1-.251.181l-1.9.423a.394.394,0,0,1-.47-.471l.423-1.9a.4.4,0,0,1,.181-.251l-.01-.01,8.027-8.027a.3.3,0,0,1,.426,0L15.52,7.143A.3.3,0,0,1,15.519,7.57Z" transform="translate(-0.001)" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_19827-2" data-name="Group 19827" transform="translate(64 10)">
+            <g id="Group_9709-2" data-name="Group 9709">
+              <circle id="Ellipse_3-2" data-name="Ellipse 3" cx="10.5" cy="10.5" r="10.5" fill="#fff"/>
+              <path id="Path_3383-2" data-name="Path 3383" d="M11.068,4.94h-4.3V.648A.647.647,0,0,0,6.13,0H5.58a.648.648,0,0,0-.64.648V4.94H.64A.64.64,0,0,0,0,5.579v.553a.639.639,0,0,0,.64.637h4.3v4.307a.635.635,0,0,0,.64.633h.55a.634.634,0,0,0,.639-.633V6.769h4.3a.639.639,0,0,0,.641-.637V5.579A.64.64,0,0,0,11.068,4.94Z" transform="translate(2.523 10.802) rotate(-45)" fill="#3b2a82"/>
+            </g>
+          </g>
+        </g>
+        <text id="Mark_Zuckerberg" data-name="Mark Zuckerberg" transform="translate(30.5 152)" fill="#fff" font-size="18" font-family="Gilroy-Bold, Gilroy" font-weight="700" letter-spacing="-0.02em"><tspan x="0" y="0">Mark Zuckerberg</tspan></text>
+        <text id="mark_adcreative.ai" data-name="mark@adcreative.ai" transform="translate(228.553 152)" fill="#fff" font-size="16" font-family="Gilroy-Medium, Gilroy" font-weight="500" letter-spacing="-0.02em"><tspan x="0" y="0">mark@adcreative.ai</tspan></text>
+        <g id="Group_9507-3" data-name="Group 9507" transform="translate(495.572 140)">
+          <text id="USER-2" data-name="USER" transform="translate(0 12)" fill="#fff" font-size="16" font-family="Gilroy-Semibold, Gilroy" font-weight="600" letter-spacing="-0.02em"><tspan x="0" y="0">USER</tspan></text>
+        </g>
+        <g id="Group_19828-3" data-name="Group 19828" transform="translate(675.213 128)">
+          <rect id="Rectangle_7695-3" data-name="Rectangle 7695" width="40" height="40" rx="12" fill="#fff" opacity="0.1"/>
+          <rect id="Rectangle_7696-3" data-name="Rectangle 7696" width="40" height="40" rx="12" transform="translate(54)" fill="#fff" opacity="0.1"/>
+          <g id="Group_9760-3" data-name="Group 9760" transform="translate(9.479 9.479)">
+            <g id="_002-pencil-3" data-name="002-pencil" transform="translate(0)">
+              <g id="Group_9708-3" data-name="Group 9708">
+                <path id="Path_11256-3" data-name="Path 11256" d="M10.519,0A10.519,10.519,0,1,0,21.038,10.518,10.519,10.519,0,0,0,10.519,0Zm5,7.57-1,1L12.487,6.535l-.772.772L13.749,9.34,8.761,14.328,6.727,12.295l-.772.772L7.989,15.1l-.5.5-.009-.009a.394.394,0,0,1-.251.181l-1.9.423a.394.394,0,0,1-.47-.471l.423-1.9a.4.4,0,0,1,.181-.251l-.01-.01,8.027-8.027a.3.3,0,0,1,.426,0L15.52,7.143A.3.3,0,0,1,15.519,7.57Z" transform="translate(-0.001)" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_19827-3" data-name="Group 19827" transform="translate(64 10)">
+            <g id="Group_9709-3" data-name="Group 9709">
+              <circle id="Ellipse_3-3" data-name="Ellipse 3" cx="10.5" cy="10.5" r="10.5" fill="#fff"/>
+              <path id="Path_3383-3" data-name="Path 3383" d="M11.068,4.94h-4.3V.648A.647.647,0,0,0,6.13,0H5.58a.648.648,0,0,0-.64.648V4.94H.64A.64.64,0,0,0,0,5.579v.553a.639.639,0,0,0,.64.637h4.3v4.307a.635.635,0,0,0,.64.633h.55a.634.634,0,0,0,.639-.633V6.769h4.3a.639.639,0,0,0,.641-.637V5.579A.64.64,0,0,0,11.068,4.94Z" transform="translate(2.523 10.802) rotate(-45)" fill="#3b2a82"/>
+            </g>
+          </g>
+        </g>
+        <text id="Jeff_Bezos" data-name="Jeff Bezos" transform="translate(30.5 88)" fill="#fff" font-size="18" font-family="Gilroy-Bold, Gilroy" font-weight="700" letter-spacing="-0.02em"><tspan x="0" y="0">Jeff Bezos</tspan></text>
+        <text id="jeff_adcreative.ai" data-name="jeff@adcreative.ai" transform="translate(230.886 88)" fill="#fff" font-size="16" font-family="Gilroy-Medium, Gilroy" font-weight="500" letter-spacing="-0.02em"><tspan x="0" y="0">jeff@adcreative.ai</tspan></text>
+        <g id="Group_9507-4" data-name="Group 9507" transform="translate(492.338 76)">
+          <text id="ADMIN-2" data-name="ADMIN" transform="translate(0 12)" fill="#fff" font-size="16" font-family="Gilroy-Semibold, Gilroy" font-weight="600" letter-spacing="-0.02em"><tspan x="0" y="0">ADMIN</tspan></text>
+        </g>
+        <g id="Group_19828-4" data-name="Group 19828" transform="translate(675.213 64)">
+          <rect id="Rectangle_7695-4" data-name="Rectangle 7695" width="40" height="40" rx="12" fill="#fff" opacity="0.1"/>
+          <rect id="Rectangle_7696-4" data-name="Rectangle 7696" width="40" height="40" rx="12" transform="translate(54)" fill="#fff" opacity="0.1"/>
+          <g id="Group_9760-4" data-name="Group 9760" transform="translate(9.479 9.479)">
+            <g id="_002-pencil-4" data-name="002-pencil" transform="translate(0)">
+              <g id="Group_9708-4" data-name="Group 9708">
+                <path id="Path_11256-4" data-name="Path 11256" d="M10.519,0A10.519,10.519,0,1,0,21.038,10.518,10.519,10.519,0,0,0,10.519,0Zm5,7.57-1,1L12.487,6.535l-.772.772L13.749,9.34,8.761,14.328,6.727,12.295l-.772.772L7.989,15.1l-.5.5-.009-.009a.394.394,0,0,1-.251.181l-1.9.423a.394.394,0,0,1-.47-.471l.423-1.9a.4.4,0,0,1,.181-.251l-.01-.01,8.027-8.027a.3.3,0,0,1,.426,0L15.52,7.143A.3.3,0,0,1,15.519,7.57Z" transform="translate(-0.001)" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_19827-4" data-name="Group 19827" transform="translate(64 10)">
+            <g id="Group_9709-4" data-name="Group 9709">
+              <circle id="Ellipse_3-4" data-name="Ellipse 3" cx="10.5" cy="10.5" r="10.5" fill="#fff"/>
+              <path id="Path_3383-4" data-name="Path 3383" d="M11.068,4.94h-4.3V.648A.647.647,0,0,0,6.13,0H5.58a.648.648,0,0,0-.64.648V4.94H.64A.64.64,0,0,0,0,5.579v.553a.639.639,0,0,0,.64.637h4.3v4.307a.635.635,0,0,0,.64.633h.55a.634.634,0,0,0,.639-.633V6.769h4.3a.639.639,0,0,0,.641-.637V5.579A.64.64,0,0,0,11.068,4.94Z" transform="translate(2.523 10.802) rotate(-45)" fill="#3b2a82"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_21147" data-name="Group 21147" transform="translate(0 52)" opacity="0.3">
+          <line id="Line_244" data-name="Line 244" x2="792.713" transform="translate(0 192)" fill="none" stroke="rgba(222,219,232,0.5)" stroke-width="1"/>
+          <line id="Line_244-2" data-name="Line 244" x2="792.713" transform="translate(0 128)" fill="none" stroke="rgba(222,219,232,0.5)" stroke-width="1"/>
+          <line id="Line_244-3" data-name="Line 244" x2="792.713" transform="translate(0 64)" fill="none" stroke="rgba(222,219,232,0.5)" stroke-width="1"/>
+          <line id="Line_157" data-name="Line 157" x2="792.713" fill="none" stroke="rgba(222,219,232,0.5)" stroke-width="1"/>
+        </g>
+        <text id="Elon_Musk" data-name="Elon Musk" transform="translate(30.5 24)" fill="#fff" font-size="18" font-family="Gilroy-Bold, Gilroy" font-weight="700" letter-spacing="-0.02em"><tspan x="0" y="0">Elon Musk</tspan></text>
+        <text id="elon_adcreative.ai" data-name="elon@adcreative.ai" transform="translate(229.393 24)" fill="#fff" font-size="16" font-family="Gilroy-Medium, Gilroy" font-weight="500" letter-spacing="-0.02em"><tspan x="0" y="0">elon@adcreative.ai</tspan></text>
+        <g id="Group_9507-5" data-name="Group 9507" transform="translate(492.338 12)">
+          <text id="ADMIN-3" data-name="ADMIN" transform="translate(0 12)" fill="#fff" font-size="16" font-family="Gilroy-Semibold, Gilroy" font-weight="600" letter-spacing="-0.02em"><tspan x="0" y="0">ADMIN</tspan></text>
+        </g>
+        <g id="Group_19822" data-name="Group 19822" transform="translate(675.213)">
+          <rect id="Rectangle_7695-5" data-name="Rectangle 7695" width="94" height="40" rx="12" fill="#fff"/>
+          <text id="Save" transform="translate(29 25)" fill="#3b2a82" font-size="16" font-family="Gilroy-Bold, Gilroy" font-weight="700"><tspan x="0" y="0">Save</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

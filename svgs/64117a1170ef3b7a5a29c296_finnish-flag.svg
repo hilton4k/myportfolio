@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.66" height="16.381" viewBox="0 0 23.66 16.381">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="23.66" height="16.381" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_14" data-name="Rectangle 14" width="23.66" height="16.38" rx="5" transform="translate(-23517 12601)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_1" data-name="Repeat Grid 1" clip-path="url(#clip-path)">
+    <g transform="translate(84 -192)">
+      <g id="Mask_Group_3" data-name="Mask Group 3" transform="translate(23433 -12409)" clip-path="url(#clip-path-2)">
+        <g id="finland" transform="translate(-23517 12601)">
+          <rect id="Rectangle_13" data-name="Rectangle 13" width="24.571" height="16.381" transform="translate(0 0)" fill="#f0f0f0"/>
+          <path id="Path_3" data-name="Path 3" d="M24.571,92.5v2.047H8.813v7.167H6.765V94.543H0V92.5H6.765V85.329H8.813V92.5Z" transform="translate(0 -85.329)" fill="#2e52b2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

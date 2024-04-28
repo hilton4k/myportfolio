@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.66" height="16.38" viewBox="0 0 23.66 16.38">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_20" data-name="Rectangle 20" width="23.66" height="16.38" rx="5" transform="translate(-23467 12601)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(23467 -12601)" clip-path="url(#clip-path)">
+    <g id="india" transform="translate(-23468 12601)">
+      <rect id="Rectangle_17" data-name="Rectangle 17" width="24.571" height="16.38" transform="translate(0 0)" fill="#f0f0f0"/>
+      <rect id="Rectangle_18" data-name="Rectangle 18" width="24.571" height="5.46" transform="translate(0 0)" fill="#ff9811"/>
+      <rect id="Rectangle_19" data-name="Rectangle 19" width="24.571" height="5.46" transform="translate(0 10.92)" fill="#6da544"/>
+      <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="2.107" cy="2.107" rx="2.107" ry="2.107" transform="translate(10.179 6.083)" fill="#0052b4"/>
+      <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="1.317" cy="1.317" rx="1.317" ry="1.317" transform="translate(10.969 6.873)" fill="#f0f0f0"/>
+      <path id="Path_6" data-name="Path 6" d="M228.088,222.146l.406.921,1-.109-.595.812.595.812-1-.109-.406.921-.406-.921-1,.109.595-.812-.595-.812,1,.109Z" transform="translate(-215.803 -215.581)" fill="#0052b4"/>
+    </g>
+  </g>
+</svg>

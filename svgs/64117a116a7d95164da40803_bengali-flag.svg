@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.66" height="16.38" viewBox="0 0 23.66 16.38">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="23.66" height="16.38" rx="5" transform="translate(-23573 12601)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(23573 -12601)" clip-path="url(#clip-path)">
+    <g id="flat" transform="translate(-23574 12601)">
+      <path id="Path_1" data-name="Path 1" d="M3,11H29.12V27.381H3Z" transform="translate(-3 -11)" fill="#38846c"/>
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="4.971" cy="4.971" rx="4.971" ry="4.971" transform="translate(8.103 3.163)" fill="#da1c4b"/>
+    </g>
+  </g>
+</svg>

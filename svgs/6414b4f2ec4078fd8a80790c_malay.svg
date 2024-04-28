@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.66" height="16.38" viewBox="0 0 23.66 16.38">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_7443" data-name="Rectangle 7443" width="23.66" height="16.38" rx="5" transform="translate(-23726 9828)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_19345" data-name="Group 19345" transform="translate(23726 -9828)">
+    <g id="Mask_Group_128" data-name="Mask Group 128" clip-path="url(#clip-path)">
+      <g id="Flag_of_Indonesia" transform="translate(-23726 9828)">
+        <path id="Path_27932" data-name="Path 27932" d="M0,0H24.571V16.381H0Z" fill="#fff"/>
+        <path id="Path_27933" data-name="Path 27933" d="M0,0H24.571V8.19H0Z" fill="red"/>
+      </g>
+    </g>
+    <g id="Rectangle_7444" data-name="Rectangle 7444" transform="translate(-23726 9828)" fill="none" stroke="#efeef3" stroke-width="1">
+      <rect width="23.66" height="16.38" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="22.66" height="15.38" rx="4.5" fill="none"/>
+    </g>
+  </g>
+</svg>

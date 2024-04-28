@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.66" height="16.38" viewBox="0 0 23.66 16.38">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_7443" data-name="Rectangle 7443" width="23.66" height="16.38" rx="5" transform="translate(-23726 9783)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_19344" data-name="Group 19344" transform="translate(23726 -9783)">
+    <g id="Mask_Group_127" data-name="Mask Group 127" clip-path="url(#clip-path)">
+      <g id="Flag_of_Israel" transform="translate(-23726 9783)">
+        <path id="Path_27929" data-name="Path 27929" d="M0,0H23.66V17.207H0Z" fill="#fff"/>
+        <path id="Path_27930" data-name="Path 27930" d="M0,75H23.66v2.689H0Z" transform="translate(0 -73.387)" fill="#0038b8"/>
+        <path id="Path_27931" data-name="Path 27931" d="M0,600H23.66v2.689H0Z" transform="translate(0 -587.094)" fill="#0038b8"/>
+        <path id="Path_27932" data-name="Path 27932" d="M426.2,260.809l-1.085-1.879H422.95l1.085-1.879-1.085-1.879h2.169l1.085-1.879,1.085,1.879h2.169l-1.085,1.879,1.085,1.879h-2.169Zm-.365-1.879.365.632.365-.632Zm1.809-.623h.73l-.365-.632Zm-2.169,0h1.45l.725-1.255-.725-1.255h-1.45l-.725,1.255Zm-1.45,0h.73l-.365-.632Zm3.619-2.511.365.632.365-.632Zm-3.619,0,.365.632.365-.632Zm1.809-.623h.73l-.365-.632Z" transform="translate(-414.373 -248.448)" fill="#0038b8"/>
+      </g>
+    </g>
+    <g id="Rectangle_7445" data-name="Rectangle 7445" transform="translate(-23726 9783)" fill="none" stroke="#efeef3" stroke-width="1">
+      <rect width="23.66" height="16.38" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="22.66" height="15.38" rx="4.5" fill="none"/>
+    </g>
+  </g>
+</svg>
